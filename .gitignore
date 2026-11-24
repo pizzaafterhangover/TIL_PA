@@ -1,0 +1,7 @@
+# obsidian files
+*.json
+/.obsidian
+
+# claude
+/.cladue
+
